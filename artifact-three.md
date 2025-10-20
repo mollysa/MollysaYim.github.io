@@ -47,6 +47,11 @@ private void checkInventoryLevels() {
 
 ```
 
+**Repository Files:**  
+- [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Handles database checks and triggers SMS notifications.  
+- [DatabaseHelper.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DatabaseHelper.java) – Contains SQLite CRUD methods and threshold queries.  
+- [SettingsActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/SettingsActivity.java) – Allows users to enable SMS notifications and configure threshold preferences.  
+
 **Skills Demonstrated:**  
 Database design, SQL querying, Android permissions and security, data persistence, and real-world API integration.
 
