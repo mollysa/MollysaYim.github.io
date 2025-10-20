@@ -45,6 +45,8 @@ private void checkInventoryLevels() {
     }
 }
 
+```
+
 **Skills Demonstrated:**  
 Database design, SQL querying, Android permissions and security, data persistence, and real-world API integration.
 
