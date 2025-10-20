@@ -8,6 +8,7 @@ This Android app allows users to manage an inventory of items by adding, editing
 and deleting records. The original version focused on functionality, but I enhanced 
 it to improve the layout, usability, and overall design.
 
+
 **Enhancements Made:**  
 - Added search and sort functionality to improve navigation and data visibility 
 within the inventory.  
@@ -19,6 +20,7 @@ ensuring consistency across Android versions.
 user-friendly interface.  
 - Refactored code to follow clean architecture principles and improve readability 
 and maintainability.   
+
 
 **Original Code vs. Enhanced Code**
 ```java
@@ -56,14 +58,26 @@ item.setImagePath(imageUri.toString()); // Save URI instead of file path
 imageView.setImageURI(imageUri);
 
 ```
+
+**After Enhancement:**
+
+<div align="center">
+    
+<img src="assets/images/Artifact1.png" width="20%">
+<img src="assets/images/Artifact1-2.png" width="20%">
+
+</div>
+
 **Repository Files:**  
 - [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Main activity logic for displaying and managing inventory data.  
 - [ItemAdapter.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/ItemAdapter.java) – Custom adapter for RecyclerView displaying inventory items.  
-- [item_inventory.xml](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/res/layout/item_inventory.xml) – Layout for individual inventory item cards.  
+- [item_inventory.xml](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/res/layout/item_inventory.xml) – Layout for individual inventory item cards.
+  
 
 **Skills Demonstrated:**  
 Software design, Java development, UI/UX improvements, and object-oriented 
 programming.
+
 
 **Narrative:**  
 The artifact I selected to represent enhancements and outcomes within the Software Engineering and Design category is my Inventory App,  originally created during my coursework in CS-360, Mobile Architecture and Programming. The project was developed in Android Studio using Java and SQLite. This week, I enhanced the application by adding search and sort functionality for inventory items, a confirmation dialog before deletion, and a fix for the image upload feature, which previously saved incorrect file paths. I updated the app to store image links instead, ensuring consistency across Android versions.
