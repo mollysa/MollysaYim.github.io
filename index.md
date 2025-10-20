@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 <div align="center">
 
 <h1>Welcome to My SNHU Computer Science ePortfolio</h1>
