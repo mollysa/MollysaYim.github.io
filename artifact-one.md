@@ -54,6 +54,10 @@ item.setImagePath(imageUri.toString()); // Save URI instead of file path
 imageView.setImageURI(imageUri);
 
 ```
+**Repository Files:**  
+- [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Main activity logic for displaying and managing inventory data.  
+- [ItemAdapter.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/ItemAdapter.java) – Custom adapter for RecyclerView displaying inventory items.  
+- [item_inventory.xml](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/res/layout/item_inventory.xml) – Layout for individual inventory item cards.  
 
 **Skills Demonstrated:**  
 Software design, Java development, UI/UX improvements, and object-oriented 
