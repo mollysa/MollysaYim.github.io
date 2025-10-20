@@ -19,6 +19,7 @@ user-friendly interface.
 and maintainability.   
 
 **Original Code vs. Enhanced Code**
+```java
 // Delete button - Old Version
 holder.deleteButton.setOnClickListener(v -> {
     dbHelper.deleteItem(item.getId());
@@ -52,6 +53,7 @@ Uri imageUri = data.getData();
 item.setImagePath(imageUri.toString()); // Save URI instead of file path
 imageView.setImageURI(imageUri);
 
+```
 
 **Skills Demonstrated:**  
 Software design, Java development, UI/UX improvements, and object-oriented 
