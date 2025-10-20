@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 <h1 align="center">Enhancement Two: Algorithms and Data Structures</h1>
 <h2 align="center">Inventory App – Algorithmic Enhancement</h2>
 
