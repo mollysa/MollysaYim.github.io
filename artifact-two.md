@@ -59,6 +59,15 @@ holder.checkBox.setOnCheckedChangeListener((buttonView, isChecked) -> {
 
 ```
 
+**After Enhancement:**
+
+<div align="center">
+    
+<img src="assets/images/Before Multiselect.png" width="20%">
+<img src="assets/images/After Multiselect.png" width="20%">
+
+</div>
+
 **Repository Files:**  
 - [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Main logic for search, sort, and batch algorithms.  
 - [ItemAdapter.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/ItemAdapter.java) – Handles batch selection and iteration logic.  
