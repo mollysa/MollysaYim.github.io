@@ -57,6 +57,12 @@ holder.checkBox.setOnCheckedChangeListener((buttonView, isChecked) -> {
 
 ```
 
+**Repository Files:**  
+- [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Main logic for search, sort, and batch algorithms.  
+- [ItemAdapter.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/ItemAdapter.java) – Handles batch selection and iteration logic.  
+- [activity_display_data.xml](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/res/layout/activity_display_data.xml) – Layout used to display sorted and filtered items.  
+
+
 **Skills Demonstrated:**  
 Algorithmic problem solving, iteration, data structure management, refactoring for efficiency, and scalable software design.
 
