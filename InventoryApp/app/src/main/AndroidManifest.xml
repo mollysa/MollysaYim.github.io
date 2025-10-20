@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zybooks.inventoryapp">
+
+    <!-- Declare permissions for sending SMS -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+
+    <!-- Permissions for reading images on Android 13 -->
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <!-- Permission for writing to external storage (for Android 10 and earlier, Android 11/12 may have different behavior) -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
+
+    <!-- To access telephony features (if needed for SMS) -->
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InventoryApp">
+
+        <activity
+            android:name=".EditItemActivity" />
+
+        <!-- MainActivity: This is the first screen (login screen) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- DisplayDataActivity: This is the second screen - grid data screen after successful login -->
+        <activity
+            android:name=".DisplayDataActivity"
+            android:exported="true" />
+
+        <!-- AddItemActivity: This is the screen to add items -->
+        <activity
+            android:name=".AddItemActivity"
+            android:exported="false" />
+
+        <!-- SettingsActivity: This is the settings screen -->
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>
