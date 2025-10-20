@@ -1,6 +1,3 @@
-<h1 align="center">Enhancement Two: Algorithms & Data Structure</h1>
-<h2 align="center">Inventory App</h2>
-
 <h1 align="center">Enhancement Two: Algorithms and Data Structures</h1>
 <h2 align="center">Inventory App – Algorithmic Enhancement</h2>
 
@@ -57,6 +54,8 @@ holder.checkBox.setOnCheckedChangeListener((buttonView, isChecked) -> {
     if (isChecked) selectedItems.add(item.getId());
     else selectedItems.remove(item.getId());
 });
+
+```
 
 **Skills Demonstrated:**  
 Algorithmic problem solving, iteration, data structure management, refactoring for efficiency, and scalable software design.
