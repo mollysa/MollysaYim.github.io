@@ -7,9 +7,15 @@ Hi, I'm Mollysa Yim, a Computer Science student at SNHU. This site showcases my 
 
 ## Professional Self-Assessment
 
-Throughout my degree program, I have grown from learning basic programming logic to designing complete applications that integrate front-end interfaces, database management, and algorithmic problem solving. I’ve learned to approach challenges with creativity, persistence, and a focus on user experience. This portfolio reflects that growth by showing how I’ve enhanced my past projects to demonstrate more advanced concepts and stronger technical understanding.
+Completing my coursework in the Computer Science program at Southern New Hampshire University has helped me grow from a curious learner into a confident developer ready to apply my skills in a professional environment. Each course challenged me to approach problems with both creativity and structure, and developing this ePortfolio allowed me to reflect on that growth and tie all those experiences together. Over time, I have learned not only how to write functional code but how to design efficient, user-centered, and secure solutions that address real-world needs.
 
-My goal is to pursue a career in software development where I can combine my problem-solving skills and creativity to build meaningful, user-centered technology solutions.
+Throughout the program, I gained hands-on experience working on projects that emphasized collaboration, communication, and technical problem solving. In CS-465 Full Stack Development, I learned how to work effectively in a team environment—sharing code through GitHub, dividing tasks using Agile methods, and ensuring my contributions aligned with the final goal. These experiences taught me the importance of adaptability and clear communication, which I’ve found are just as essential as technical knowledge when building successful software. I also improved my ability to communicate with non-technical stakeholders, explaining complex processes in ways that help them make informed decisions without overwhelming them with technical details.
+
+The coursework strengthened my understanding of core computer science concepts, including **data structures, algorithms, databases, and software engineering**. Implementing features like search and sort functions in my Inventory App gave me practical experience in algorithmic problem solving and optimizing performance. I also gained valuable experience designing and interacting with databases through SQL and SQLite, focusing on data integrity and secure information handling. Courses that emphasized security principles taught me to incorporate authentication, permission handling, and data validation into my applications—ensuring that what I build not only functions well but also protects users and their data.
+
+The process of creating my ePortfolio has been especially valuable in helping me see how all of these skills connect. My artifacts—such as the **Inventory Management App** and its enhancements in software design, algorithms, and databases—showcase the full range of my technical abilities. Together, they reflect how I can design, build, and refine software from start to finish while considering usability, efficiency, and data safety. This portfolio is more than a collection of projects—it represents the mindset I’ve developed as a problem solver, a teammate, and a professional ready to contribute to the computer science field.
+
+Through this program, I’ve also shaped my professional values and goals. I’ve learned to approach every project with empathy for the user, respect for collaboration, and commitment to writing clean, maintainable code. I’m eager to continue growing as a developer and to apply these principles in a career where I can build solutions that make technology more intuitive, accessible, and secure. My experience at SNHU has prepared me not only to enter the field of computer science but to thrive in it with the confidence and adaptability that come from real, hands-on learning.
 
 ---
 
@@ -23,7 +29,9 @@ In this portfolio, I’ve included several key artifacts that represent my devel
 
 Each artifact includes a narrative explaining the enhancement process, challenges faced, and how it connects to the program outcomes.
 
-[View My Artifacts →](artifacts.md)
+- [Enhancement One – Software Design and Engineering](artifact-one.md)
+- [Enhancement Two – Algorithms and Data Structures](artifact-two.md)
+- [Enhancement Three – Databases and SMS Alerts](artifact-three.md)
 
 ---
 
