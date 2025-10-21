@@ -78,8 +78,8 @@ imageView.setImageURI(imageUri);
 Software design, Java development, UI/UX improvements, and object-oriented 
 programming.
 
-
-**Narrative:**  
+<section>
+<h2>Narrative</h2> 
 The artifact I selected to represent enhancements and outcomes within the Software Engineering and Design category is my Inventory App,  originally created during my coursework in CS-360, Mobile Architecture and Programming. The project was developed in Android Studio using Java and SQLite. This week, I enhanced the application by adding search and sort functionality for inventory items, a confirmation dialog before deletion, and a fix for the image upload feature, which previously saved incorrect file paths. I updated the app to store image links instead, ensuring consistency across Android versions.
 
 I chose to include this artifact because it demonstrates my ability to design, 
@@ -109,5 +109,6 @@ against accidental data loss. The biggest challenge was integrating these featur
 smoothly into the existing app without breaking other functionality, but solving 
 that pushed me to refactor my code and think carefully about balancing efficiency, 
 simplicity, and data safety.
+</section>
 
 [← Back to Home](index.md)
