@@ -80,35 +80,14 @@ programming.
 
 <section>
 <h2>Narrative</h2> 
-The artifact I selected to represent enhancements and outcomes within the Software Engineering and Design category is my Inventory App,  originally created during my coursework in CS-360, Mobile Architecture and Programming. The project was developed in Android Studio using Java and SQLite. This week, I enhanced the application by adding search and sort functionality for inventory items, a confirmation dialog before deletion, and a fix for the image upload feature, which previously saved incorrect file paths. I updated the app to store image links instead, ensuring consistency across Android versions.
+<p>The artifact I selected to represent enhancements and outcomes within the Software Engineering and Design category is my Inventory App,  originally created during my coursework in CS-360, Mobile Architecture and Programming. The project was developed in Android Studio using Java and SQLite. This week, I enhanced the application by adding search and sort functionality for inventory items, a confirmation dialog before deletion, and a fix for the image upload feature, which previously saved incorrect file paths. I updated the app to store image links instead, ensuring consistency across Android versions.
 
-I chose to include this artifact because it demonstrates my ability to design, 
-debug, and enhance a mobile application to meet real-world needs. It showcases 
-skills such as creating interactive and user-friendly interfaces with RecyclerView 
-and custom adapters. I was able to improve the user experience with search, sort, 
-confirmation dialogs, and image uploaders. The confirmation dialog highlights my 
-focus on user-centered design and safety, while the enhanced image uploader shows 
-my persistence in problem-solving and debugging technical issues.
+I chose to include this artifact because it demonstrates my ability to design, debug, and enhance a mobile application to meet real-world needs. It showcases skills such as creating interactive and user-friendly interfaces with RecyclerView and custom adapters. I was able to improve the user experience with search, sort, confirmation dialogs, and image uploaders. The confirmation dialog highlights my focus on user-centered design and safety, while the enhanced image uploader shows my persistence in problem-solving and debugging technical issues.
 
-With these enhancements, I feel confident that I met course outcomes 3 and 4.
-Adding filtering, sorting, and confirmation dialogs allowed me to address real 
-usability problems while balancing efficiency and user safety. Filtering and 
-sorting required logic to loop through and reorder data, while the delete 
-confirmation added an extra step but prevented users from losing items by accident. 
-I also worked with industry-standard Android tools like RecyclerView, search bars, 
-and dialogs to refine workflows and improve the overall user experience. These 
-updates show my ability to design and improve solutions that are both practical for 
-users and aligned with professional development practices.
+With these enhancements, I feel confident that I met course outcomes 3 and 4. Adding filtering, sorting, and confirmation dialogs allowed me to address real usability problems while balancing efficiency and user safety. Filtering and sorting required logic to loop through and reorder data, while the delete confirmation added an extra step but prevented users from losing items by accident. I also worked with industry-standard Android tools like RecyclerView, search bars, and dialogs to refine workflows and improve the overall user experience. These updates show my ability to design and improve solutions that are both practical for users and aligned with professional development practices.
 
-Enhancing this artifact taught me how important small but thoughtful features are 
-for usability. Implementing search and sort helped me practice algorithmic thinking 
-by designing logic to filter and reorder lists dynamically while keeping the 
-RecyclerView synchronized with the database. Adding a confirmation dialog before 
-deleting showed me the value of user-centered design, since it provided a safeguard 
-against accidental data loss. The biggest challenge was integrating these features 
-smoothly into the existing app without breaking other functionality, but solving 
-that pushed me to refactor my code and think carefully about balancing efficiency, 
-simplicity, and data safety.
+Enhancing this artifact taught me how important small but thoughtful features are for usability. Implementing search and sort helped me practice algorithmic thinking by designing logic to filter and reorder lists dynamically while keeping the RecyclerView synchronized with the database. Adding a confirmation dialog before deleting showed me the value of user-centered design, since it provided a safeguard against accidental data loss. The biggest challenge was integrating these features smoothly into the existing app without breaking other functionality, but solving that pushed me to refactor my code and think carefully about balancing efficiency, simplicity, and data safety.
+</p>
 </section>
 
 [← Back to Home](index.md)
