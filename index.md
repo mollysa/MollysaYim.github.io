@@ -6,7 +6,6 @@
   <p><em>Software Design · Algorithms · Databases</em></p>
 </div>
 
-
 Hi, I’m Mollysa Yim, a Computer Science student at SNHU. This site showcases my growth, skills, and completed projects from my time in CS 499, Computer Science Capstone. It highlights my work in **software design and engineering**, **algorithms and data structures**, and **databases** through enhanced project artifacts and professional reflection.
 
 <section>
@@ -17,7 +16,7 @@ Throughout the program, I gained hands-on experience working on projects that em
 
 The coursework strengthened my understanding of core computer science concepts, including **data structures, algorithms, databases, and software engineering**. Implementing features like search and sort functions in my Inventory App gave me practical experience in algorithmic problem solving and optimizing performance. I also gained valuable experience designing and interacting with databases through SQL and SQLite, focusing on data integrity and secure information handling. Courses that emphasized security principles taught me to incorporate authentication, permission handling, and data validation into my applications, ensuring that what I build not only functions well but also protects users and their data.
 
-The process of creating my ePortfolio has been especially valuable in helping me see how all of these skills connect. My artifacts, such as the **Inventory Management App** and its enhancements in software design, algorithms, and databases, showcase the full range of my technical abilities. Together, they reflect how I can design, build, and refine software from start to finish while considering usability, efficiency, and data safety. This portfolio is more than a collection of projects, it represents the mindset I’ve developed as a problem solver, a teammate, and a professional ready to contribute to the computer science field.
+The process of creating my ePortfolio has been especially valuable in helping me see how all of these skills connect. My artifacts, such as the Inventory Management App and its enhancements in software design, algorithms, and databases, showcase the full range of my technical abilities. Together, they reflect how I can design, build, and refine software from start to finish while considering usability, efficiency, and data safety. This portfolio is more than a collection of projects, it represents the mindset I’ve developed as a problem solver, a teammate, and a professional ready to contribute to the computer science field.
 
 Through this program, I’ve also shaped my professional values and goals. I’ve learned to approach every project with empathy for the user, respect for collaboration, and commitment to writing clean, maintainable code. I’m eager to continue growing as a developer and to apply these principles in a career where I can build solutions that make technology more intuitive, accessible, and secure. My experience at SNHU has prepared me not only to enter the field of computer science but to thrive in it with the confidence and adaptability that come from real, hands-on learning.</p>
 </section>
