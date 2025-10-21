@@ -5,14 +5,14 @@
 
 **Description:**  
 This enhancement expanded the Inventory App’s functionality by improving database interaction and integrating an SMS notification system.  
-I added logic to automatically check inventory levels and send low-stock alerts using Android’s `SmsManager`.  
+I added logic to automatically check inventory levels and send low-stock alerts using Android’s SmsManager.  
 This demonstrated both backend database design and real-world communication features.
 
 **Enhancements Made:**  
 - Added a method to query the database for items below a user-defined quantity threshold.  
-- Implemented an SMS notification feature for low-stock alerts using Android’s `SmsManager`.  
+- Implemented an SMS notification feature for low-stock alerts using Android’s SmsManager.  
 - Created a settings screen that allows users to toggle SMS alerts and customize stock thresholds.  
-- Used `SharedPreferences` to store user preferences securely.  
+- Used SharedPreferences to store user preferences securely.  
 - Improved the app’s database schema for better performance and data accuracy.  
 
 **Original Code vs. Enhanced Code**
