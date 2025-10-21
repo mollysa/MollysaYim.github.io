@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
-<div class="hero">
-  <img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" class="profile-pic">
+ <section class="hero-banner">
+  <img src="assets/images/MollysaYimCartoon.JPG" alt="Profile Pic" class="hero-pic">
   <h1>Welcome to My SNHU Computer Science ePortfolio</h1>
-  <p><em>Software Design · Algorithms · Databases</em></p>
-</div>
+  <p><em>Software Design · Algorithms & Data Structures · Databases</em></p>
+</section>
 
 Hi, I’m Mollysa Yim, a Computer Science student at SNHU. This site showcases my growth, skills, and completed projects from my time in CS 499, Computer Science Capstone. It highlights my work in **software design and engineering**, **algorithms and data structures**, and **databases** through enhanced project artifacts and professional reflection.
 
