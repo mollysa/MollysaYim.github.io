@@ -1,7 +1,10 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
+<div class="hero">
+  <img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" class="profile-pic">
+</div>
+
  <section class="hero-banner">
-  <img src="assets/images/MollysaYimCartoon.JPG" alt="Profile Pic" class="hero-pic">
   <h1>Welcome to My SNHU Computer Science ePortfolio</h1>
   <p><em>Software Design · Algorithms & Data Structures · Databases</em></p>
 </section>
