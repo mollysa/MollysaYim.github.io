@@ -28,7 +28,7 @@ Through this program, I’ve also shaped my professional values and goals. I’v
 
 ## Artifacts and Enhancements
 
-In this portfolio, I’ve included several key artifacts that represent my development as a computer scientist:
+In this portfolio, I’ve included key artifacts that represent my development as a computer scientist:
 
 - **Inventory Management App (Android)** – Enhanced for software design, UI improvement, and feature expansion.  
 - **Inventory App Algorithmic Enhancement** – Focused on search, sort, and batch operation efficiency.  
