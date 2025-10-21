@@ -79,7 +79,7 @@ Algorithmic problem solving, iteration, data structure management, refactoring f
 
 <section>
 <h2>Narrative</h2>
-The artifact I selected is my Inventory App, which I originally created in CS 360 – Mobile Architecture and 
+<p>The artifact I selected is my Inventory App, which I originally created in CS 360 – Mobile Architecture and 
 Programming. The app allows users to manage inventory items by adding, editing, and deleting records, with 
 persistent storage through an SQLite database. I later enhanced the artifact by introducing multi-select batch 
 operations that allows users to select multiple items using checkboxes and perform actions like delete or mark out 
@@ -110,6 +110,7 @@ consistent styling to create a polished, consistent look. These UI improvements,
 reinforced the importance of design considerations and how visual clarity can make technical enhancement more 
 usable. These challenges pushed me to refine my problem-solving skills, experiment with different approaches, and 
 think critically about design compromises.
+</p>
 </section>
 
 [← Back to Home](index.md)
