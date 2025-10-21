@@ -4,7 +4,7 @@
 
 <h1>Welcome to My SNHU Computer Science ePortfolio</h1>
 
-<img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" width="200">
+<img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" width="200" class="profile-pic">
 
 </div>
 
