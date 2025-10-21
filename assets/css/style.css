@@ -71,6 +71,41 @@ section {
   animation: fadeIn 1.2s ease-in;
 }
 
+.hero-banner {
+  text-align: center;
+  background: linear-gradient(180deg, #fff6d1 0%, #fcd672 100%);
+  padding: 60px 20px;
+  border-radius: 0 0 25px 25px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  color: #3c2a00;
+  position: relative;
+}
+
+.hero-banner h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.2em;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  color: #3c2a00;
+}
+
+.hero-banner p {
+  font-size: 1.1em;
+  margin-top: 10px;
+  color: #5a4a24;
+}
+
+.hero-pic {
+  width: 140px;
+  border-radius: 50%;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease-in-out;
+}
+
+.hero-pic:hover {
+  transform: scale(1.05);
+}
+
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(-10px); }
   to { opacity: 1; transform: translateY(0); }
