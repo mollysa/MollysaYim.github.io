@@ -7,13 +7,13 @@
 This enhancement focused on optimizing the Inventory App by applying algorithmic principles to improve its 
 efficiency and scalability.  
 Originally, the app displayed data without search, sort, or batch management features. I implemented search and 
-sort algorithms to dynamically filter and organize inventory items and used Java’s `Set` data structure for batch 
+sort algorithms to dynamically filter and organize inventory items and used Java’s Set data structure for batch 
 item operations.
 
 **Enhancements Made:**  
 - Added real-time search functionality to dynamically filter inventory data.  
 - Implemented sorting by name and quantity using Java comparators.  
-- Introduced `Set` and iteration logic to enable multi-select and batch delete operations.  
+- Introduced Set and iteration logic to enable multi-select and batch delete operations.  
 - Refactored loops and conditions to improve performance and maintain code readability.  
 - Tested algorithmic changes to ensure accurate and efficient data handling.  
 
