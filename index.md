@@ -1,11 +1,9 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
-<div align="center">
-
-<h1>Welcome to My SNHU Computer Science ePortfolio</h1>
-
-<img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" width="200" class="profile-pic">
-
+<div class="hero">
+  <img src="assets/images/MollysaYimCartoon.JPG" alt="Mollysa Yim profile photo" class="profile-pic">
+  <h1>Welcome to My SNHU Computer Science ePortfolio</h1>
+  <p><em>Software Design · Algorithms · Databases</em></p>
 </div>
 
 
