@@ -49,6 +49,15 @@ private void checkInventoryLevels() {
 
 ```
 
+**After Enhancement:**
+
+<div align="center">
+    
+<img src="assets/images/Settings.png" width="20%">
+<img src="assets/images/SMS.png" width="20%">
+
+</div>
+
 **Repository Files:**  
 - [DisplayDataActivity.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DisplayDataActivity.java) – Handles database checks and triggers SMS notifications.  
 - [DatabaseHelper.java](https://github.com/mollysa/MollysaYim.github.io/blob/main/InventoryApp/app/src/main/java/com/zybooks/inventoryapp/DatabaseHelper.java) – Contains SQLite CRUD methods and threshold queries.  
