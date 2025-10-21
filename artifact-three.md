@@ -66,7 +66,8 @@ private void checkInventoryLevels() {
 **Skills Demonstrated:**  
 Database design, SQL querying, Android permissions and security, data persistence, and real-world API integration.
 
-**Narrative:**  
+<section>
+<h2>Narrative</h2>
 The artifact I chose is my Inventory App, which I first built during my Computer Science coursework in CS 360, 
 Mobile Architecture and Programming. It started out as a straightforward project in Android Studio using Java and 
 SQLite, where users could add, edit, and delete inventory items. As I got further into my program, especially in my 
@@ -94,5 +95,6 @@ were getting the preferences and SMS permissions to play nicely together, and ma
 user too often. It was also a challenge to get the alerts to list out the actual item names so the text felt 
 specific and useful. In the end, these challenges pushed me to think about usability just as much as functionality, 
 which I think is an important step forward in my development skills.
+</section>
 
 [← Back to Home](index.md)
