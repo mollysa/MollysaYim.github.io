@@ -78,7 +78,7 @@ holder.checkBox.setOnCheckedChangeListener((buttonView, isChecked) -> {
 Algorithmic problem solving, iteration, data structure management, refactoring for efficiency, and scalable software design.
 
 <section>
-<h2>Narrative:</h2>
+<h2>Narrative</h2>
 The artifact I selected is my Inventory App, which I originally created in CS 360 – Mobile Architecture and 
 Programming. The app allows users to manage inventory items by adding, editing, and deleting records, with 
 persistent storage through an SQLite database. I later enhanced the artifact by introducing multi-select batch 
